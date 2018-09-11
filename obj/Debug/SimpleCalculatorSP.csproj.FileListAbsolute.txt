@@ -1,0 +1,9 @@
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\obj\Debug\SimpleCalculatorSP.csprojAssemblyReference.cache
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\obj\Debug\SimpleCalculator.frmCalculator.resources
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\obj\Debug\SimpleCalculatorSP.csproj.GenerateResource.cache
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\obj\Debug\SimpleCalculatorSP.csproj.CoreCompileInputs.cache
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\renee.riggins\Documents\C#-Training\MyLabOne\MyLabOne-master\Solution\Simple Calculator - StartingPoint\Simple Calculator - StartingPoint\C#\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
